@@ -93,10 +93,12 @@ main {
     color: #fff;
   }
   .menu a:hover,
-  .menu a:focus {
-    background-color: #00b050;
+  .menu a:focus {    
     color: white;
     border-radius: 5px;
+  }
+   .menu a{    
+    color: white;
   }
   .menu a.active {
     background-color: #117da0;
